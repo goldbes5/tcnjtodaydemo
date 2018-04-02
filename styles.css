@@ -1,0 +1,72 @@
+#top {
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   
+   top: 0;
+   left: 0;
+    height: 65px;
+    background: #293f6f;
+}
+
+#menu {
+   width: 100%;
+   margin: 0;
+   padding: 0;
+   
+   top: 0;
+   left: 0;
+    height: 165px;
+    background: #f0e3b2;
+}
+
+#today {
+    font-family: EB Garamond;
+    color: #4F4F4F;
+    font-size: 30px;
+    height: 50px;
+    line-height: 100%;
+    letter-spacing: 1px;
+    text-decoration: none;
+    
+    
+}
+
+#form {
+    display: block;
+}
+
+#menuitems {
+    width: 113px; 
+    height: auto;
+    position: absolute;
+    display: block;
+}
+
+#menuitems2 {
+    width: 113px; 
+    height: auto;
+    position: absolute;
+    display: block;
+}
+
+#menuitems3 {
+    width: 113px; 
+    height: auto;
+    position: absolute;
+    display: block;
+}
+
+#menuitems4 {
+    width: 113px; 
+    height: auto;
+    position: absolute;
+    display: block;
+}
+
+#menuitems5 {
+    width: 113px; 
+    height: auto;
+    position: absolute;
+    display: block;
+}
